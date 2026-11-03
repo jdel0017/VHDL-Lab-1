@@ -1,0 +1,27 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite BASIC license has been detected. Your current license is active and will expire on 20-oct-2027.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct 31 13:45:09 2026
+# Process ID         : 15068
+# Current directory  : C:/Users/Jeremy/AppData/Roaming/Xilinx/Vivado
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent22484
+# Log file           : C:/Users/Jeremy/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file       : C:/Users/Jeremy/AppData/Roaming/Xilinx/Vivado\vivado.jou
+# Running On         : DESKTOP-667JCEE
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 34220 MB
+# Swap memory        : 40802 MB
+# Total Virtual      : 75023 MB
+# Available Virtual  : 50516 MB
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Oct 31 13:50:01 2026...
